@@ -1,4 +1,4 @@
-## R function to get, set, getInverse and setInverse of an invertible 
+#### R function to get, set, getInverse and setInverse of an invertible 
 matrix
 ## x is an object of Matrix type
 
