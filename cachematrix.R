@@ -1,4 +1,5 @@
-## R function to get, set, getInverse and setInverse of an invertible matrix
+## R function to get, set, getInverse and setInverse of an invertible 
+matrix
 ## x is an object of Matrix type
 
 makeCacheMatrix <- function(x = matrix()) {
